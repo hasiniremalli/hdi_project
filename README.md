@@ -1,4 +1,4 @@
-# Meridian — Human Development Index Estimator
+# Meridian — Human Development Index Estimator, **Live demo:** https://hdi-project-n2p8.onrender.com
 
 A full-stack machine learning web app that classifies a country into one of
 the four official HDI tiers — **Low, Medium, High, Very High** — from its
