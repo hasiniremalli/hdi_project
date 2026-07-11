@@ -109,3 +109,4 @@ life_expectancy, mean_years_schooling, expected_years_schooling, gni_per_capita,
 - The synthetic dataset approximates real-world correlations but is not
   drawn from actual country data — swap in the UNDP's Human Development
   Report tables for production use.
+  Add live demo link
